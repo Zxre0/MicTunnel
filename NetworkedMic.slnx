@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="MicClient.ClientUI/MicClient.ClientUI.csproj" />
   <Project Path="MicClient/MicClient.csproj" />
+  <Project Path="MicServer.UI/MicServer.UI.csproj" Id="b994f506-74ac-4de2-bc4a-dc0ceeb24bf4" />
   <Project Path="MicServer/MicServer.csproj" />
 </Solution>
