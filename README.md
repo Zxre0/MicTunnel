@@ -44,5 +44,7 @@ MacOS (Coming Soon)
 
 Linux (Coming Soon)
 
+# Tailscale
+this does work with tailscale use with information as you will
 
   
