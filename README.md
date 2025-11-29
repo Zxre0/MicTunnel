@@ -45,6 +45,6 @@ MacOS (Coming Soon)
 Linux (Coming Soon)
 
 # Tailscale
-this does work with tailscale use with information as you will
+This does work with tailscale if your machine isnt on the same network as you
 
   
