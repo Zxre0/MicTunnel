@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MicClient/MicClient.csproj" />
+  <Project Path="MicServer/MicServer.csproj" />
+</Solution>
